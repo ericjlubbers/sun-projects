@@ -1,9 +1,3 @@
-# Gatsby React Bootstrap Starter
+# The Colorado Sun Projects Home
 
-A GatsbyJS starter that includes
-
-- react-bootstrap
-- react-icons
-- sticky on scroll navbar
-- SASS compiler
-- basic layout
+A Gatsby + React minisite for the data visualization and other projects by The Colorado Sun.
