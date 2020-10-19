@@ -1,0 +1,34 @@
+{
+  "senateSpendingTop5": [
+    {
+      "group": "SMP",
+      "totalSpend": 10006323.419999998,
+      "party": "R",
+      "id": 2
+    },
+    {
+      "group": "NRSC",
+      "totalSpend": 8284014.67,
+      "party": "D",
+      "id": 3
+    },
+    {
+      "group": "SENATE LEADERSHIP FUND",
+      "totalSpend": 6079615.809999999,
+      "party": "R",
+      "id": 4
+    },
+    {
+      "group": "GIFFORDS PAC",
+      "totalSpend": 1345000,
+      "party": "D",
+      "id": 5
+    },
+    {
+      "group": "ESAFUND",
+      "totalSpend": 1165000,
+      "party": "R",
+      "id": 6
+    }
+  ]
+}

@@ -7,7 +7,6 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-
 import { Container, Row, Col } from "react-bootstrap"
 
 // import Header from "./header"

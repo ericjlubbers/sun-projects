@@ -2,8 +2,10 @@ module.exports = {
   pathPrefix: "/gatsby-react-bootstrap-starter",
   siteMetadata: {
     title: `Colorado Sun Projects Home`,
-    description: `A starter that includes react-bootstrap and react-icons, along with SASS compilation.`,
-    author: `Billy Jacoby`,
+    description: `A site to host The Colorado Sun's projects`,
+    author: `Eric Lubbers | The Colorado Sun`,
+    twitterHandle: '@coloradosun',
+    url: 'https://projects.coloradosun.com',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

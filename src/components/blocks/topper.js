@@ -4,7 +4,7 @@ import { Col } from "react-bootstrap"
 
 export default ({ children }) => (
 
-<Col lg={{ span: 6, offset: 3 }}>
+<Col xl={{ span: 6, offset: 3 }} lg={{ span: 8, offset: 2 }}>
     {children}
 </Col>
 
