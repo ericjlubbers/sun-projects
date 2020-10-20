@@ -1,0 +1,889 @@
+{
+    "tvAdsByDate": [
+      {
+        "startDate": "12/30/2019",
+        "countStartDate": 2,
+        "id": 2
+      },
+      {
+        "startDate": "12/31/2019",
+        "countStartDate": 8,
+        "id": 3
+      },
+      {
+        "startDate": "1/1/2020",
+        "countStartDate": 10,
+        "id": 4
+      },
+      {
+        "startDate": "1/5/2020",
+        "countStartDate": 1,
+        "id": 5
+      },
+      {
+        "startDate": "1/6/2020",
+        "countStartDate": 1,
+        "id": 6
+      },
+      {
+        "startDate": "1/7/2020",
+        "countStartDate": 7,
+        "id": 7
+      },
+      {
+        "startDate": "1/9/2020",
+        "countStartDate": 2,
+        "id": 8
+      },
+      {
+        "startDate": "1/11/2020",
+        "countStartDate": 10,
+        "id": 9
+      },
+      {
+        "startDate": "1/12/2020",
+        "countStartDate": 2,
+        "id": 10
+      },
+      {
+        "startDate": "1/13/2020",
+        "countStartDate": 6,
+        "id": 11
+      },
+      {
+        "startDate": "1/14/2020",
+        "countStartDate": 6,
+        "id": 12
+      },
+      {
+        "startDate": "1/17/2020",
+        "countStartDate": 1,
+        "id": 13
+      },
+      {
+        "startDate": "1/18/2020",
+        "countStartDate": 11,
+        "id": 14
+      },
+      {
+        "startDate": "1/20/2020",
+        "countStartDate": 7,
+        "id": 15
+      },
+      {
+        "startDate": "1/22/2020",
+        "countStartDate": 4,
+        "id": 16
+      },
+      {
+        "startDate": "1/23/2020",
+        "countStartDate": 2,
+        "id": 17
+      },
+      {
+        "startDate": "1/25/2020",
+        "countStartDate": 11,
+        "id": 18
+      },
+      {
+        "startDate": "1/26/2020",
+        "countStartDate": 1,
+        "id": 19
+      },
+      {
+        "startDate": "1/27/2020",
+        "countStartDate": 16,
+        "id": 20
+      },
+      {
+        "startDate": "1/29/2020",
+        "countStartDate": 7,
+        "id": 21
+      },
+      {
+        "startDate": "2/1/2020",
+        "countStartDate": 17,
+        "id": 22
+      },
+      {
+        "startDate": "2/3/2020",
+        "countStartDate": 3,
+        "id": 23
+      },
+      {
+        "startDate": "2/4/2020",
+        "countStartDate": 1,
+        "id": 24
+      },
+      {
+        "startDate": "2/5/2020",
+        "countStartDate": 6,
+        "id": 25
+      },
+      {
+        "startDate": "2/7/2020",
+        "countStartDate": 5,
+        "id": 26
+      },
+      {
+        "startDate": "2/8/2020",
+        "countStartDate": 8,
+        "id": 27
+      },
+      {
+        "startDate": "2/9/2020",
+        "countStartDate": 1,
+        "id": 28
+      },
+      {
+        "startDate": "2/10/2020",
+        "countStartDate": 18,
+        "id": 29
+      },
+      {
+        "startDate": "2/11/2020",
+        "countStartDate": 3,
+        "id": 30
+      },
+      {
+        "startDate": "2/12/2020",
+        "countStartDate": 11,
+        "id": 31
+      },
+      {
+        "startDate": "2/13/2020",
+        "countStartDate": 13,
+        "id": 32
+      },
+      {
+        "startDate": "2/14/2020",
+        "countStartDate": 1,
+        "id": 33
+      },
+      {
+        "startDate": "2/15/2020",
+        "countStartDate": 19,
+        "id": 34
+      },
+      {
+        "startDate": "2/17/2020",
+        "countStartDate": 6,
+        "id": 35
+      },
+      {
+        "startDate": "2/19/2020",
+        "countStartDate": 13,
+        "id": 36
+      },
+      {
+        "startDate": "2/20/2020",
+        "countStartDate": 15,
+        "id": 37
+      },
+      {
+        "startDate": "2/21/2020",
+        "countStartDate": 1,
+        "id": 38
+      },
+      {
+        "startDate": "2/22/2020",
+        "countStartDate": 20,
+        "id": 39
+      },
+      {
+        "startDate": "2/23/2020",
+        "countStartDate": 1,
+        "id": 40
+      },
+      {
+        "startDate": "2/24/2020",
+        "countStartDate": 12,
+        "id": 41
+      },
+      {
+        "startDate": "2/25/2020",
+        "countStartDate": 2,
+        "id": 42
+      },
+      {
+        "startDate": "2/26/2020",
+        "countStartDate": 39,
+        "id": 43
+      },
+      {
+        "startDate": "2/27/2020",
+        "countStartDate": 21,
+        "id": 44
+      },
+      {
+        "startDate": "2/28/2020",
+        "countStartDate": 3,
+        "id": 45
+      },
+      {
+        "startDate": "2/29/2020",
+        "countStartDate": 2,
+        "id": 46
+      },
+      {
+        "startDate": "3/1/2020",
+        "countStartDate": 1,
+        "id": 47
+      },
+      {
+        "startDate": "3/3/2020",
+        "countStartDate": 1,
+        "id": 48
+      },
+      {
+        "startDate": "3/4/2020",
+        "countStartDate": 2,
+        "id": 49
+      },
+      {
+        "startDate": "3/6/2020",
+        "countStartDate": 1,
+        "id": 50
+      },
+      {
+        "startDate": "3/11/2020",
+        "countStartDate": 4,
+        "id": 51
+      },
+      {
+        "startDate": "3/12/2020",
+        "countStartDate": 1,
+        "id": 52
+      },
+      {
+        "startDate": "3/13/2020",
+        "countStartDate": 16,
+        "id": 53
+      },
+      {
+        "startDate": "3/15/2020",
+        "countStartDate": 3,
+        "id": 54
+      },
+      {
+        "startDate": "3/16/2020",
+        "countStartDate": 2,
+        "id": 55
+      },
+      {
+        "startDate": "3/17/2020",
+        "countStartDate": 18,
+        "id": 56
+      },
+      {
+        "startDate": "3/18/2020",
+        "countStartDate": 5,
+        "id": 57
+      },
+      {
+        "startDate": "3/23/2020",
+        "countStartDate": 1,
+        "id": 58
+      },
+      {
+        "startDate": "3/25/2020",
+        "countStartDate": 3,
+        "id": 59
+      },
+      {
+        "startDate": "4/6/2020",
+        "countStartDate": 1,
+        "id": 60
+      },
+      {
+        "startDate": "5/11/2020",
+        "countStartDate": 4,
+        "id": 61
+      },
+      {
+        "startDate": "5/12/2020",
+        "countStartDate": 2,
+        "id": 62
+      },
+      {
+        "startDate": "5/14/2020",
+        "countStartDate": 1,
+        "id": 63
+      },
+      {
+        "startDate": "5/15/2020",
+        "countStartDate": 8,
+        "id": 64
+      },
+      {
+        "startDate": "5/18/2020",
+        "countStartDate": 1,
+        "id": 65
+      },
+      {
+        "startDate": "5/20/2020",
+        "countStartDate": 2,
+        "id": 66
+      },
+      {
+        "startDate": "5/22/2020",
+        "countStartDate": 8,
+        "id": 67
+      },
+      {
+        "startDate": "5/24/2020",
+        "countStartDate": 4,
+        "id": 68
+      },
+      {
+        "startDate": "5/25/2020",
+        "countStartDate": 7,
+        "id": 69
+      },
+      {
+        "startDate": "5/29/2020",
+        "countStartDate": 4,
+        "id": 70
+      },
+      {
+        "startDate": "6/1/2020",
+        "countStartDate": 16,
+        "id": 71
+      },
+      {
+        "startDate": "6/2/2020",
+        "countStartDate": 16,
+        "id": 72
+      },
+      {
+        "startDate": "6/3/2020",
+        "countStartDate": 7,
+        "id": 73
+      },
+      {
+        "startDate": "6/4/2020",
+        "countStartDate": 3,
+        "id": 74
+      },
+      {
+        "startDate": "6/5/2020",
+        "countStartDate": 3,
+        "id": 75
+      },
+      {
+        "startDate": "6/7/2020",
+        "countStartDate": 1,
+        "id": 76
+      },
+      {
+        "startDate": "6/8/2020",
+        "countStartDate": 5,
+        "id": 77
+      },
+      {
+        "startDate": "6/9/2020",
+        "countStartDate": 42,
+        "id": 78
+      },
+      {
+        "startDate": "6/10/2020",
+        "countStartDate": 3,
+        "id": 79
+      },
+      {
+        "startDate": "6/13/2020",
+        "countStartDate": 2,
+        "id": 80
+      },
+      {
+        "startDate": "6/15/2020",
+        "countStartDate": 6,
+        "id": 81
+      },
+      {
+        "startDate": "6/16/2020",
+        "countStartDate": 62,
+        "id": 82
+      },
+      {
+        "startDate": "6/17/2020",
+        "countStartDate": 12,
+        "id": 83
+      },
+      {
+        "startDate": "6/18/2020",
+        "countStartDate": 4,
+        "id": 84
+      },
+      {
+        "startDate": "6/19/2020",
+        "countStartDate": 8,
+        "id": 85
+      },
+      {
+        "startDate": "6/20/2020",
+        "countStartDate": 6,
+        "id": 86
+      },
+      {
+        "startDate": "6/21/2020",
+        "countStartDate": 2,
+        "id": 87
+      },
+      {
+        "startDate": "6/22/2020",
+        "countStartDate": 7,
+        "id": 88
+      },
+      {
+        "startDate": "6/23/2020",
+        "countStartDate": 68,
+        "id": 89
+      },
+      {
+        "startDate": "6/24/2020",
+        "countStartDate": 22,
+        "id": 90
+      },
+      {
+        "startDate": "6/25/2020",
+        "countStartDate": 4,
+        "id": 91
+      },
+      {
+        "startDate": "6/26/2020",
+        "countStartDate": 4,
+        "id": 92
+      },
+      {
+        "startDate": "6/27/2020",
+        "countStartDate": 3,
+        "id": 93
+      },
+      {
+        "startDate": "6/29/2020",
+        "countStartDate": 8,
+        "id": 94
+      },
+      {
+        "startDate": "7/1/2020",
+        "countStartDate": 19,
+        "id": 95
+      },
+      {
+        "startDate": "7/6/2020",
+        "countStartDate": 6,
+        "id": 96
+      },
+      {
+        "startDate": "7/7/2020",
+        "countStartDate": 29,
+        "id": 97
+      },
+      {
+        "startDate": "7/8/2020",
+        "countStartDate": 22,
+        "id": 98
+      },
+      {
+        "startDate": "7/9/2020",
+        "countStartDate": 4,
+        "id": 99
+      },
+      {
+        "startDate": "7/11/2020",
+        "countStartDate": 1,
+        "id": 100
+      },
+      {
+        "startDate": "7/13/2020",
+        "countStartDate": 4,
+        "id": 101
+      },
+      {
+        "startDate": "7/14/2020",
+        "countStartDate": 35,
+        "id": 102
+      },
+      {
+        "startDate": "7/15/2020",
+        "countStartDate": 2,
+        "id": 103
+      },
+      {
+        "startDate": "7/16/2020",
+        "countStartDate": 1,
+        "id": 104
+      },
+      {
+        "startDate": "7/18/2020",
+        "countStartDate": 1,
+        "id": 105
+      },
+      {
+        "startDate": "7/20/2020",
+        "countStartDate": 7,
+        "id": 106
+      },
+      {
+        "startDate": "7/21/2020",
+        "countStartDate": 54,
+        "id": 107
+      },
+      {
+        "startDate": "7/22/2020",
+        "countStartDate": 4,
+        "id": 108
+      },
+      {
+        "startDate": "7/27/2020",
+        "countStartDate": 6,
+        "id": 109
+      },
+      {
+        "startDate": "7/28/2020",
+        "countStartDate": 42,
+        "id": 110
+      },
+      {
+        "startDate": "7/29/2020",
+        "countStartDate": 4,
+        "id": 111
+      },
+      {
+        "startDate": "7/30/2020",
+        "countStartDate": 6,
+        "id": 112
+      },
+      {
+        "startDate": "8/3/2020",
+        "countStartDate": 3,
+        "id": 113
+      },
+      {
+        "startDate": "8/4/2020",
+        "countStartDate": 34,
+        "id": 114
+      },
+      {
+        "startDate": "8/5/2020",
+        "countStartDate": 8,
+        "id": 115
+      },
+      {
+        "startDate": "8/6/2020",
+        "countStartDate": 8,
+        "id": 116
+      },
+      {
+        "startDate": "8/10/2020",
+        "countStartDate": 5,
+        "id": 117
+      },
+      {
+        "startDate": "8/11/2020",
+        "countStartDate": 37,
+        "id": 118
+      },
+      {
+        "startDate": "8/13/2020",
+        "countStartDate": 14,
+        "id": 119
+      },
+      {
+        "startDate": "8/14/2020",
+        "countStartDate": 2,
+        "id": 120
+      },
+      {
+        "startDate": "8/17/2020",
+        "countStartDate": 9,
+        "id": 121
+      },
+      {
+        "startDate": "8/18/2020",
+        "countStartDate": 27,
+        "id": 122
+      },
+      {
+        "startDate": "8/19/2020",
+        "countStartDate": 5,
+        "id": 123
+      },
+      {
+        "startDate": "8/20/2020",
+        "countStartDate": 15,
+        "id": 124
+      },
+      {
+        "startDate": "8/21/2020",
+        "countStartDate": 26,
+        "id": 125
+      },
+      {
+        "startDate": "8/24/2020",
+        "countStartDate": 17,
+        "id": 126
+      },
+      {
+        "startDate": "8/25/2020",
+        "countStartDate": 35,
+        "id": 127
+      },
+      {
+        "startDate": "8/27/2020",
+        "countStartDate": 20,
+        "id": 128
+      },
+      {
+        "startDate": "8/28/2020",
+        "countStartDate": 15,
+        "id": 129
+      },
+      {
+        "startDate": "8/31/2020",
+        "countStartDate": 3,
+        "id": 130
+      },
+      {
+        "startDate": "9/1/2020",
+        "countStartDate": 51,
+        "id": 131
+      },
+      {
+        "startDate": "9/2/2020",
+        "countStartDate": 10,
+        "id": 132
+      },
+      {
+        "startDate": "9/3/2020",
+        "countStartDate": 2,
+        "id": 133
+      },
+      {
+        "startDate": "9/4/2020",
+        "countStartDate": 8,
+        "id": 134
+      },
+      {
+        "startDate": "9/6/2020",
+        "countStartDate": 1,
+        "id": 135
+      },
+      {
+        "startDate": "9/7/2020",
+        "countStartDate": 9,
+        "id": 136
+      },
+      {
+        "startDate": "9/8/2020",
+        "countStartDate": 84,
+        "id": 137
+      },
+      {
+        "startDate": "9/9/2020",
+        "countStartDate": 5,
+        "id": 138
+      },
+      {
+        "startDate": "9/10/2020",
+        "countStartDate": 8,
+        "id": 139
+      },
+      {
+        "startDate": "9/14/2020",
+        "countStartDate": 17,
+        "id": 140
+      },
+      {
+        "startDate": "9/15/2020",
+        "countStartDate": 99,
+        "id": 141
+      },
+      {
+        "startDate": "9/16/2020",
+        "countStartDate": 4,
+        "id": 142
+      },
+      {
+        "startDate": "9/17/2020",
+        "countStartDate": 1,
+        "id": 143
+      },
+      {
+        "startDate": "9/18/2020",
+        "countStartDate": 3,
+        "id": 144
+      },
+      {
+        "startDate": "9/21/2020",
+        "countStartDate": 13,
+        "id": 145
+      },
+      {
+        "startDate": "9/22/2020",
+        "countStartDate": 134,
+        "id": 146
+      },
+      {
+        "startDate": "9/23/2020",
+        "countStartDate": 8,
+        "id": 147
+      },
+      {
+        "startDate": "9/24/2020",
+        "countStartDate": 3,
+        "id": 148
+      },
+      {
+        "startDate": "9/25/2020",
+        "countStartDate": 4,
+        "id": 149
+      },
+      {
+        "startDate": "9/26/2020",
+        "countStartDate": 3,
+        "id": 150
+      },
+      {
+        "startDate": "9/28/2020",
+        "countStartDate": 31,
+        "id": 151
+      },
+      {
+        "startDate": "9/29/2020",
+        "countStartDate": 162,
+        "id": 152
+      },
+      {
+        "startDate": "9/30/2020",
+        "countStartDate": 10,
+        "id": 153
+      },
+      {
+        "startDate": "10/1/2020",
+        "countStartDate": 3,
+        "id": 154
+      },
+      {
+        "startDate": "10/2/2020",
+        "countStartDate": 5,
+        "id": 155
+      },
+      {
+        "startDate": "10/3/2020",
+        "countStartDate": 2,
+        "id": 156
+      },
+      {
+        "startDate": "10/5/2020",
+        "countStartDate": 40,
+        "id": 157
+      },
+      {
+        "startDate": "10/6/2020",
+        "countStartDate": 154,
+        "id": 158
+      },
+      {
+        "startDate": "10/7/2020",
+        "countStartDate": 5,
+        "id": 159
+      },
+      {
+        "startDate": "10/8/2020",
+        "countStartDate": 4,
+        "id": 160
+      },
+      {
+        "startDate": "10/9/2020",
+        "countStartDate": 7,
+        "id": 161
+      },
+      {
+        "startDate": "10/10/2020",
+        "countStartDate": 3,
+        "id": 162
+      },
+      {
+        "startDate": "10/11/2020",
+        "countStartDate": 1,
+        "id": 163
+      },
+      {
+        "startDate": "10/12/2020",
+        "countStartDate": 50,
+        "id": 164
+      },
+      {
+        "startDate": "10/13/2020",
+        "countStartDate": 154,
+        "id": 165
+      },
+      {
+        "startDate": "10/14/2020",
+        "countStartDate": 11,
+        "id": 166
+      },
+      {
+        "startDate": "10/15/2020",
+        "countStartDate": 8,
+        "id": 167
+      },
+      {
+        "startDate": "10/16/2020",
+        "countStartDate": 10,
+        "id": 168
+      },
+      {
+        "startDate": "10/17/2020",
+        "countStartDate": 1,
+        "id": 169
+      },
+      {
+        "startDate": "10/18/2020",
+        "countStartDate": 2,
+        "id": 170
+      },
+      {
+        "startDate": "10/19/2020",
+        "countStartDate": 36,
+        "id": 171
+      },
+      {
+        "startDate": "10/20/2020",
+        "countStartDate": 132,
+        "id": 172
+      },
+      {
+        "startDate": "10/21/2020",
+        "countStartDate": 11,
+        "id": 173
+      },
+      {
+        "startDate": "10/23/2020",
+        "countStartDate": 10,
+        "id": 174
+      },
+      {
+        "startDate": "10/24/2020",
+        "countStartDate": 2,
+        "id": 175
+      },
+      {
+        "startDate": "10/26/2020",
+        "countStartDate": 19,
+        "id": 176
+      },
+      {
+        "startDate": "10/27/2020",
+        "countStartDate": 111,
+        "id": 177
+      },
+      {
+        "startDate": "10/28/2020",
+        "countStartDate": 5,
+        "id": 178
+      }
+    ]
+  }

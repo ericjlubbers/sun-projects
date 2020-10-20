@@ -1,0 +1,34 @@
+{
+  "senateTvSpendingTop5": [
+    {
+      "group": "Hickenlooper for Colorado",
+      "totalSpend": 16053889,
+      "party": "D",
+      "id": 2
+    },
+    {
+      "group": "Gardner for Senate",
+      "totalSpend": 11578444,
+      "party": "R",
+      "id": 3
+    },
+    {
+      "group": "Senate Majority PAC",
+      "totalSpend": 8309110,
+      "party": "D",
+      "id": 4
+    },
+    {
+      "group": "NRSC",
+      "totalSpend": 5806202,
+      "party": "R",
+      "id": 5
+    },
+    {
+      "group": "Senate Leadership Fund",
+      "totalSpend": 5357042,
+      "party": "R",
+      "id": 6
+    }
+  ]
+}

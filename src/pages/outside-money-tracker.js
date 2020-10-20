@@ -14,6 +14,9 @@ import { Container, Row, Col } from "react-bootstrap"
 
 // DATA
 import SenateChart from "../components/outsidemoney/senatespending"
+import SenateTVChart from "../components/outsidemoney/senateTVspending"
+import CD3Chart from "../components/outsidemoney/cd3TVspending"
+import AdsByDayChart from "../components/outsidemoney/adsbyday"
 import TvTable from "../components/outsidemoney/tvTable"
 import MessageTable from "../components/outsidemoney/messageTable"
 
@@ -31,32 +34,32 @@ class MoneyTracker extends React.Component {
       <SEO title="Colorado Election 2020 Money Tracker" />
 
       <HeadlineBox
-      headline="Hi from the Money Tracker"
+      headline="[MONEY TRACKER HEADLINE]"
       eyebrow="ELECTION 2020"
-      deck="This is the deck!"
-      timestamp="UPDATED: SEPT. 27 2020 11:52 P.M."
+      deck="[MONEY TRACKER DECK]"
+      timestamp="UPDATED: OCT. 21 2020 05:00 A.M."
       />
       <BylineBox>
       <Byline
-      author="Reporter Name"
+      author="Sandra Fish"
       authorMug="http://placehold.it/256x256"
       authorLabel="Reporter"
-      authorEmail="eric@coloradosun.com"
-      authorTwitter="brofax"
-      authorLink="https://coloradosun.com/author/eric-lubbers/"
+      authorEmail="[NEED EMAIL]"
+      authorTwitter="fishnette"
+      authorLink="https://coloradosun.com/author/sandra-fish/"
       />
       <Byline
-      author="Reporter Name"
+      author="John Frank"
       authorMug="http://placehold.it/256x256"
       authorLabel="Reporter"
-      authorEmail="eric@coloradosun.com"
-      authorTwitter="brofax"
-      authorLink="https://coloradosun.com/author/eric-lubbers/"
+      authorEmail="johnfrank@coloradosun.com"
+      authorTwitter="byJohnFrank"
+      authorLink="https://coloradosun.com/author/john-frank/"
       />
       <Byline
-      author="Reporter Name"
+      author="Eric Lubbers"
       authorMug="http://placehold.it/256x256"
-      authorLabel="Reporter"
+      authorLabel="Designer"
       authorEmail="eric@coloradosun.com"
       authorTwitter="brofax"
       authorLink="https://coloradosun.com/author/eric-lubbers/"
@@ -99,35 +102,40 @@ class MoneyTracker extends React.Component {
       </Row>
       </Container>
 
-      <WideBlock>
+      <Container fluid>
       <Row>
       <Col>
-      <h4 className="fancy">SENATE</h4>
+      <h4 className="fancy">SENATE SPENDING</h4>
       <p>Biggest buyers in the Senate Race.</p>
       <SenateChart />
       <p>More info.</p>
       
       </Col>
       <Col>
-      <h4 className="fancy">BALLOT ISSUES</h4>
-      <p>Biggest buyers for ballot issues? State races?</p>
-      <SenateChart />
+      <h4 className="fancy">SENATE TV SPENDING</h4>
+      <p>Biggest buyers of airtime in the Senate race.</p>
+      <SenateTVChart />
+      <p>More info.</p>
+      
+      </Col>
+      <Col>
+      <h4 className="fancy">CD 3 TV SPENDING</h4>
+      <p>Biggest buyers of airtime for the CD 3 Congressional Race.</p>
+      <CD3Chart />
       <p>More info.</p>
       
       </Col>
       </Row>
+      </Container>
+
+
+      <WideBlock>
+      <hr />
       <Row>
       <Col>
-      <h4 className="fancy">PRESIDENT</h4>
-      <p>Biggest buyers for president.</p>
-      <SenateChart />
-      <p>More info.</p>
-      
-      </Col>
-      <Col>
       <h4 className="fancy">ADS BY DATE</h4>
-      <p>This will be a line chart showing ad buys by date.</p>
-      <SenateChart />
+      <p>The number of new TV ad starts purchased in Colorado. </p>
+      <AdsByDayChart />
       <p>More info.</p>
       </Col>
       </Row>

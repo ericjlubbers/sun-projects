@@ -1,0 +1,34 @@
+{
+  "cd3TvSpendingTop5": [
+    {
+      "group": "Diane Mitsch Bush",
+      "totalSpend": 2111013,
+      "party": "D",
+      "id": 2
+    },
+    {
+      "group": "Lauren Boebert",
+      "totalSpend": 1071503,
+      "party": "R",
+      "id": 3
+    },
+    {
+      "group": "House Majority PAC",
+      "totalSpend": 847900,
+      "party": "D",
+      "id": 4
+    },
+    {
+      "group": "DCCC",
+      "totalSpend": 640253,
+      "party": "D",
+      "id": 5
+    },
+    {
+      "group": "Club for Growth Action",
+      "totalSpend": 490905,
+      "party": "R",
+      "id": 6
+    }
+  ]
+}

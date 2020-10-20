@@ -2,10 +2,10 @@ import React, { PureComponent } from 'react';
 import {
   BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Label, ResponsiveContainer
 } from 'recharts';
-import SenateData from "./data/senateSpendingData.json"
+import SenateData from "./data/senateTVSpendingData.json"
 import numeral from "numeral"
 
-const data = SenateData.senateSpendingTop5
+const data = SenateData.senateTvSpendingTop5
 
 function currencyFormatter(tickItem) {
   return numeral(tickItem).format('$0,0')
